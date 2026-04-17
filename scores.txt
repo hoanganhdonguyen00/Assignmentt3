@@ -1,0 +1,5 @@
+Thong,36
+Quan,100
+Tu,100
+Dat,60
+Hai,10
